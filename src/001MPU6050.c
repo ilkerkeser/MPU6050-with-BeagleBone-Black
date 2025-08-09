@@ -4,7 +4,7 @@
  Author      : İK
  Version     :
  Copyright   : Your copyright notice
- Description :
+ Description : Getting MPU6050 values using BeagleBone Black
  ============================================================================
  */
 
